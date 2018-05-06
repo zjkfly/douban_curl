@@ -1,2 +1,5 @@
 # douban_curl
 豆瓣电影top250的小爬虫
+
+20行写一个豆瓣电影top250的Python脚本
+自动将结果写入movie250.txt的文件里面
